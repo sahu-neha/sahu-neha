@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 :rocket: Welcome to my GitHub profile!
 
 Hi there! I'm a full-stack developer with expertise of both back-end and front-end development. I have a passion for creating intuitive and visually appealing web applications.
+
 :hammer_and_wrench: Skills
 
     Proficient in languages such as Java, and JavaScript
@@ -27,9 +28,11 @@ Here are a few select projects that showcase my skills as a front-end developer:
 
     Clone of Wrike: A web Application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.
 
-📨 Connect
+📧 Connect
 
-Feel free to connect with me on LinkedIn or send me an email at nehasahu2227@gmail.com. I'm always open to discussing new opportunities and collaborations.
+Feel free to connect with me on LinkedIn or send me an email. I'm always open to discussing new opportunities and collaborations.
+
+[Email](nehasahu2227@gmail.com)
 
 [LinkedIn 📩](https://www.linkedin.com/in/neha-s-3925a4239)
 
