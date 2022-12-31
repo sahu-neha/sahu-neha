@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 :rocket: Welcome to my GitHub profile!
 
-Hi there! I'm a full-stack developer with expertise of both backend and frontend development. I have a passion for creating intuitive and visually appealing web applications.
+Hi there! I'm a full-stack developer with expertise of both back-end and front-end development. I have a passion for creating intuitive and visually appealing web applications.
 :hammer_and_wrench: Skills
 
     Proficient in languages such as Java, and JavaScript
@@ -17,13 +17,13 @@ Hi there! I'm a full-stack developer with expertise of both backend and frontend
 
 :computer: Projects
 
-Here are a few select projects that showcase my skills as a backend and frontend developer:
+Here are a few select projects that showcase my skills as a front-end developer:
 
-:electric_plug: Digital Bazaar
+:electric_plug: [Digital Bazaar](https://digital-bazaar.netlify.app/)
 
     Clone of JioMart Beta: A RESTful API built with JavaScript for managing personal daily needs. It features JWT authentication and CRUD functionality for expenses and users.
 
-:page_with_curl: ManageGeeks
+:page_with_curl: [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)
 
     Clone of Wrike: A web Application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.
 
