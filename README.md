@@ -10,7 +10,7 @@ Hi there! I'm a full-stack developer with expertise of both back-end and front-e
 
 :hammer_and_wrench: Skills
 
-    Proficient in languages such as Java, and JavaScript
+    Proficient in languages such as Java and JavaScript
     Experienced with frameworks such as Spring Boot 
     Skilled in using databases such as MySQL
     Experienced with version control using Git
