@@ -33,8 +33,6 @@ Here are a few select projects that showcase my skills as a front-end developer:
 
 Feel free to connect with me on LinkedIn or send me an email. I'm always open to discussing new opportunities and collaborations.
 
-[Email 📩](nehasahu2227@gmail.com)
-
-[LinkedIn 📩](https://www.linkedin.com/in/neha-s-3925a4239)
+[Email 📩](nehasahu2227@gmail.com) | [LinkedIn 📩](https://www.linkedin.com/in/neha-s-3925a4239)
 
 Thanks for visiting! :smiley:
