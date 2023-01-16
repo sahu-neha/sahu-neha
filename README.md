@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>:rocket: Welcome to my GitHub profile!</h3>
 
-Hi there! I'm Neha, a Full-Stack Developer with expertise of both back-end and front-end development. I have a passion for creating intuitive and visually appealing web applications.
+Hi there! I'm Neha, a Full-Stack Developer with expertise of both back-end and front-end development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
 
@@ -44,7 +44,10 @@ Hi there! I'm Neha, a Full-Stack Developer with expertise of both back-end and f
 
 ### :fire: My Stats :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=dark" alt="sahu-neha" /></p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=dark" alt="sahu-neha" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahu-neha&&show_icons=true&theme=dark" alt="sahu-neha" /></p> -->
+
+
 
 <hr>
 
@@ -62,11 +65,12 @@ Here are a few select projects that showcase my skills as a front-end developer:
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sahu-neha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahu-neha" height="25" width="30" /></a>
+<!-- <a href="https://codepen.io/sahu-neha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahu-neha" height="25" width="30" /></a> -->
 <a href="https://linkedin.com/in/neha-s-3925a4239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-s-3925a4239" height="25" width="30" /></a>
+<a href="https://discord.gg/#1666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1666" height="25" width="30" /></a>
 <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nehasahu2227" height="25" width="30" /></a>
 <a href="https://www.leetcode.com/nehasahu2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehasahu2227" height="25" width="40" /></a>
-<a href="https://discord.gg/#1666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1666" height="25" width="30" /></a>
+
 </p>
 <br>
 
