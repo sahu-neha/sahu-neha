@@ -44,7 +44,7 @@ Hi there! I'm Neha, a Full-Stack Developer with expertise of both back-end and f
 
 ### :fire: My Stats :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=dark" alt="sahu-neha" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=dark" alt="sahu-neha" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=dark" alt="sahu-neha" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahu-neha&&show_icons=true&theme=dark" alt="sahu-neha" /></p> -->
 
 
