@@ -39,11 +39,11 @@ Here are a few select projects that showcase my skills as a front-end developer:
 
 :electric_plug: [Digital Bazaar](https://digital-bazaar.netlify.app/)
 
-    Clone of JioMart Beta [Group Project]: A web application and a RESTful API built with JavaScript for managing personal daily needs. It features JWT authentication and CRUD functionality for expenses and users. 
+ <h6> Clone of JioMart Beta [Group Project]: A web application and a RESTful API built with JavaScript for managing personal daily needs. It features JWT authentication and CRUD functionality for expenses and users.</h6> 
 
 :page_with_curl: [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)
 
-    Clone of Wrike [Individual Project]: A web application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.
+<h6>Clone of Wrike [Individual Project]: A web application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.</h6>
 
 
 Thanks for visiting! :smiley:
