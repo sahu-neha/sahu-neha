@@ -26,8 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 Hi there! I'm Neha, a Full-Stack Developer with expertise of both back-end and front-end development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
-
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahu-neha" alt="sahu-neha" /></a> </p>
  -->
 - 🌱 I’m currently learning **Java, SpringBoot, Hibernate, MySQL**
@@ -73,6 +71,9 @@ Here are a few select projects that showcase my skills as a front-end developer:
 
 </p>
 <br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
 
 <h4>Thanks for visiting! :smiley:</h4>
 
