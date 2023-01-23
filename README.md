@@ -68,8 +68,8 @@ Here are a few select projects that showcase my skills as a front-end developer:
 <!-- <a href="https://codepen.io/sahu-neha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahu-neha" height="25" width="30" /></a> -->
 <a href="https://linkedin.com/in/neha-s-3925a4239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-s-3925a4239" height="25" width="30" /></a>
 <a href="https://discord.gg/#1666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1666" height="25" width="30" /></a>
-<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nehasahu2227" height="25" width="30" /></a>
-<a href="https://www.leetcode.com/nehasahu2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehasahu2227" height="25" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nehasahu2227" height="25" width="30" /></a>
+<a href="https://www.leetcode.com/nehasahu2227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehasahu2227" height="25" width="40" /></a> -->
 
 </p>
 <br>
