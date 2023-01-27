@@ -45,7 +45,6 @@ Hi there! I'm Neha, a Full-Stack Developer with expertise of both back-end and f
 <!-- <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahu-neha&&show_icons=true&theme=dark" alt="sahu-neha" /></p> -->
 
 
-
 <hr>
 
 ### :computer: Projects
