@@ -45,7 +45,6 @@ Here are a few select projects that showcase my skills as a front-end developer:
 :page_with_curl: [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)
 <h6>Clone of Wrike [Individual Project]: A web application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.</h6>
 
-
 <hr>
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
