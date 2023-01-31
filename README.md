@@ -35,7 +35,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<!-- 
 ## :bulb: Projects :
 Here are a few select projects that showcase my skills as a front-end developer:
 
@@ -43,7 +43,7 @@ Here are a few select projects that showcase my skills as a front-end developer:
  <h6> Clone of JioMart Beta [Group Project]: A web application and a RESTful API built with JavaScript for managing personal daily needs. It features JWT authentication and CRUD functionality for expenses and users.</h6> 
 
 :page_with_curl: [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)
-<h6>Clone of Wrike [Individual Project]: A web application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.</h6>
+<h6>Clone of Wrike [Individual Project]: A web application built with JavaScript, CSS and HTML for managing personal projects and get help in project management.</h6> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
