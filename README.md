@@ -49,6 +49,6 @@ Here are a few select projects that showcase my skills as a front-end developer:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
 
-<h3>Thanks for visiting! :blush: </h3>
+<h3>Thanks for visiting! </h3>
 
 
