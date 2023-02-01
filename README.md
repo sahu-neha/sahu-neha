@@ -13,7 +13,7 @@
 - 📫 How to reach me : **nehasahu2227@gmail.com**
 
 
-## 🌐 Connect with me :
+## 🌐 Socials :
 
 <a href="https://github.com/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="neha.prog" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/neha-s-3925a4239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neha.prog" height="30" width="40" /></a>
@@ -38,11 +38,22 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+## 📜 Projects :
+
+| S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
+|:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
+| 1 |  [Digital Bazaar](https://digital-bazaar.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[JioMart.com](https://www.jiomart.com/)|
+| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike.com](https://www.wrike.com/main/)|      
+
+
 ## 📊 GitHub Stats :
 
-<p align="left" > <a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="sahu-neha github-readme-stats"/></a> </p>
-<p align="left" > <a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahu-neha&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="sahu-neha github-readme-streak-stats"/></a> </p>
-<p align="left" > <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="sahu-neha" align="center"></a> </p>
+<a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="45%" alt="sahu-neha github-readme-stats"/></a>
+<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahu-neha&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="sahu-neha github-readme-streak-stats"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="sahu-neha" width="45%" align="left"></a>
+
+
+<br><br><br><br><br><br><br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
