@@ -15,7 +15,7 @@
 
 ## 🌐 Socials :
 
-<a href="https://github.com/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="neha.prog" height="30" width="40" /></a>
+><a href="https://github.com/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="neha.prog" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/neha-s-3925a4239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neha.prog" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha.prog" height="30" width="40" /></a>
 <a href="http://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="neha.prog" height="30" width="40" /></a>
@@ -28,14 +28,14 @@
 
 
 ## 💻 Tech Stack :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-6DA55F?style=for-the-badge&logo=java&logoColor=white) 
-![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+>![HTML5](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
+![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-0a0c10.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Bootstrap](https://img.shields.io/badge/bootstrap-0a0c10.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0a0c10?style=for-the-badge&logo=postman&logoColor=white)
 
 
 ## 📜 Projects :
