@@ -17,13 +17,11 @@
 
 ><a href="https://www.linkedin.com/in/neha-s-3925a4239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neha.prog" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha.prog" height="30" width="40" /></a>
-<a href="http://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="neha-sahu" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/nehasahu272727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neha-sahu" height="30" width="40" /></a> -->
 
 <!-- <a href="https://github.com/sahu-neha" target="_blank"> ![Github: sahu-neha](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
 <a href="https://www.linkedin.com/in/neha-s-3925a4239/">![LinkedIn: nehasahu](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 <a href="https://discord.gg/#1666">![Discord: nehasahu2227](https://img.shields.io/badge/-Discord-833AB4?style=plastic&logo=discord)</a>
-<a href="https://www.hackerrank.com/nehasahu2227" target="_blank"> ![HackerRank](https://img.shields.io/badge/HackerRank-teal?style=plastic&logo=hackerrank&logoColor=white)</a> -->
 <!-- <a href="http://nehasahu.me/Portfolio2023">![Website: 3D Portfolio](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)</a> -->
 
 
@@ -48,7 +46,7 @@
 
 <a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="45%" alt="sahu-neha github-readme-stats"/></a>
 <a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahu-neha&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="sahu-neha github-readme-streak-stats"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="sahu-neha" width="45%" align="left"></a>
+<!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="sahu-neha" width="45%" align="left"></a> -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
