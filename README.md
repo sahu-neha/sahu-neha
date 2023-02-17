@@ -15,8 +15,9 @@
 
 ## 🌐 Socials :
 
-><a href="https://www.linkedin.com/in/neha-s-3925a4239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neha.prog" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha.prog" height="30" width="40" /></a>
+><a href="https://www.linkedin.com/in/neha-s-3925a4239/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nehasahu" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha#1666" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/nehasahu272727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neha-sahu" height="30" width="40" /></a> -->
 
 <!-- <a href="https://github.com/sahu-neha" target="_blank"> ![Github: sahu-neha](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
@@ -28,18 +29,18 @@
 ## 💻 Tech Stack :
 >![HTML5](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0a0c10.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## 📜 Projects :
+<!-- ## 📜 Projects :
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
 | 1 |  [Digital Bazaar](https://digital-bazaar.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[JioMart](https://www.jiomart.com/)|
-| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike](https://www.wrike.com/main/)|      
+| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike](https://www.wrike.com/main/)|       -->
 
 
 ## 📊 GitHub Stats :
