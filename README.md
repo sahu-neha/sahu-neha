@@ -35,18 +35,18 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0a0c10.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<!-- ## 📜 Projects :
+## 📜 Projects :
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
 | 1 |  [Digital Bazaar](https://digital-bazaar.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[JioMart](https://www.jiomart.com/)|
-| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike](https://www.wrike.com/main/)|       -->
+| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike](https://www.wrike.com/main/)|      
 
 
 ## 📊 GitHub Stats :
 
 <a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="45%" alt="sahu-neha github-readme-stats"/></a>
-<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahu-neha&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="45%" alt="sahu-neha github-readme-streak-stats"/></a>
+<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=gotham&hide_border=true"  width="45%" alt="sahu-neha github-readme-streak-stats"/></a>
 <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="sahu-neha" width="45%" align="left"></a> -->
 
 
