@@ -20,11 +20,6 @@
 <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/nehasahu272727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neha-sahu" height="30" width="40" /></a> -->
 
-<!-- <a href="https://github.com/sahu-neha" target="_blank"> ![Github: sahu-neha](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
-<a href="https://www.linkedin.com/in/neha-s-3925a4239/">![LinkedIn: nehasahu](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-<a href="https://discord.gg/#1666">![Discord: nehasahu2227](https://img.shields.io/badge/-Discord-833AB4?style=plastic&logo=discord)</a>
-<!-- <a href="http://nehasahu.me/Portfolio2023">![Website: 3D Portfolio](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)</a> -->
-
 
 ## 💻 Tech Stack :
 >![HTML5](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
