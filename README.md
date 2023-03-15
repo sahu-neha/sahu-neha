@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : **nehasahu2227@gmail.com**
 
-- 👨‍💻 All of my projects are available at **![Portfolio](https://sahu-neha.github.io/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sahu-neha.github.io/)**
 
 ## 🌐 Socials :
 
