@@ -18,7 +18,7 @@
 
 ><a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahu-neha" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha#1666" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a> -->
 <!-- <a href="https://twitter.com/nehasahu272727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neha-sahu" height="30" width="40" /></a> -->
 
 
