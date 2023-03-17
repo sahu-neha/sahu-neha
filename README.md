@@ -30,13 +30,13 @@
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-0a0c10.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
+<!-- 
 ## 📜 Projects :
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
 | 1 |  [Digital Bazaar](https://digital-bazaar.netlify.app/)| HTML, CSS and JavaScript | `Yes`|  Team member| 5 |[JioMart](https://www.jiomart.com/)|
-| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike](https://www.wrike.com/main/)|      
+| 2 |  [ManageGeeks](https://heartfelt-belekoy-7286f4.netlify.app/)| HTML, CSS and JavaScript| `No` | Individual|   5 |[Wrike](https://www.wrike.com/main/)|       -->
 
 
 ## 📊 GitHub Stats :
