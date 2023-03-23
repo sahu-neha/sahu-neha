@@ -18,7 +18,7 @@
 
 ><a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahu-neha" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha#1666" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/nehasahu272727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neha-sahu" height="30" width="40" /></a> -->
 
 
@@ -26,12 +26,12 @@
 >![HTML5](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-0a0c10.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- 
-## 📜 Projects :
+
+<!--  ## 📜 Projects :
 
 | S.No. | Project | Tech-Stack |  Collaborative | Role | Span (Days) | Clone of |
 |:--:| :----------------------------: | :----------------------------------------------:|:--------:|:---------:|:-----:|:----------------:|
