@@ -23,11 +23,14 @@
 
 
 ## 💻 Tech Stack :
->![HTML5](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
+>![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-0a0c10?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/jdbc-0a0c10?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-0a0c10?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-0a0c10?style=for-the-badge&logo=java&logoColor=white)
+![SprongBoot](https://img.shields.io/badge/springboot-0a0c10?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
 
