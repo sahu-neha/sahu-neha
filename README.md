@@ -23,6 +23,7 @@
 
 
 ## 💻 Tech Stack :
+
 >![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-0a0c10?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/jdbc-0a0c10?style=for-the-badge&logo=java&logoColor=white)
@@ -45,16 +46,18 @@
 
 ## 📊 GitHub Stats :
 
-<a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="45%" alt="sahu-neha github-readme-stats"/></a>
-<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=gotham&hide_border=true"  width="45%" alt="sahu-neha github-readme-streak-stats"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sahu-neha" width="45%" align="left"></a>
+<div align="center">
+<a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="sahu-neha github-readme-stats"/></a>
+<a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=gotham&hide_border=true"  width="46%" alt="sahu-neha github-readme-streak-stats"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sahu-neha" width="43%" align="center"></a> </div>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+</br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3 align="center">Thanks for visiting! :blush: </h3>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000"> </p>
+
+
 
 
