@@ -16,10 +16,11 @@
 
 ## 🌐 Socials :
 
-><a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahu-neha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a>
-<!-- <a href="https://discordapp.com/users/589433155635773470" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="neha#1666" height="30" width="40" /></a> -->
-<!-- <a href="https://twitter.com/nehasahu272727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neha-sahu" height="30" width="40" /></a> -->
+<!-- ><a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahu-neha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a> -->
+
+> <a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a0c10?style=for-the-badge&logo=linkedin&logoColor=white" alt="sahu-neha"/></a>
+<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-0a0c10?style=for-the-badge&logo=hackerrank&logoColor=white" alt="nehasahu2227"/></a>
 
 
 ## 💻 Tech Stack :
@@ -34,6 +35,11 @@
 ![CSS](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/postman-0a0c10?style=for-the-badge&logo=postman&logoColor=white) 
+![VSCode](https://img.shields.io/badge/vscode-0a0c10?style=for-the-badge&logo=vscode&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-0a0c10?style=for-the-badge&logo=netlify&logoColor=white)
+![SpringToolSuite](https://img.shields.io/badge/SpringToolSuite-0a0c10?style=for-the-badge&logo=SpringToolSuite&logoColor=white) 
+
 
 
 <!--  ## 📜 Projects :
