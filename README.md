@@ -5,10 +5,7 @@
 
 ## 👨‍💻 About me :
 
-- 🌱 I’m currently learning **Java**
-<!-- - , SpringBoot, Hibernate, MySQL -->
-
-- 💬 Ask me about **HTML, CSS, JavaScript, DSA**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me : **nehasahu2227@gmail.com**
 
@@ -23,7 +20,7 @@
 <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-0a0c10?style=for-the-badge&logo=hackerrank&logoColor=white" alt="nehasahu2227"/></a>
 
 
-## 💻 Tech Stack :
+## 💻 Tech-Stack & Tools :
 
 >![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-0a0c10?style=for-the-badge&logo=java&logoColor=white)
@@ -36,10 +33,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-0a0c10?style=for-the-badge&logo=postman&logoColor=white) 
-![VSCode](https://img.shields.io/badge/vscode-0a0c10?style=for-the-badge&logo=vscode&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-0a0c10?style=for-the-badge&logo=netlify&logoColor=white)
-![SpringToolSuite](https://img.shields.io/badge/SpringToolSuite-0a0c10?style=for-the-badge&logo=SpringToolSuite&logoColor=white) 
 
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+<br>
+
+![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/2a0d8608-c278-437c-b69f-d4002fcff218)
 
 
 <!--  ## 📜 Projects :
@@ -55,7 +54,8 @@
 <div align="center">
 <a href="https://github.com/sahu-neha?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=sahu-neha&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="46%" alt="sahu-neha github-readme-stats"/></a>
 <a href="https://github.com/sahu-neha?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-neha&theme=gotham&hide_border=true"  width="46%" alt="sahu-neha github-readme-streak-stats"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sahu-neha" width="43%" align="center"></a> </div>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-neha&theme=gotham&hide_border=true&langs_count=6&count_private=true&layout=compact" alt="sahu-neha" width="43%" align="center"></a> 
+</div>
 
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahu-neha&label=Profile%20views&color=0e75b6&style=flat" alt="sahu-neha" /> </p>
