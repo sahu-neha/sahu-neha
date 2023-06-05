@@ -39,7 +39,8 @@
 <br>
 
 <!-- ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/2a0d8608-c278-437c-b69f-d4002fcff218) -->
-![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/c03e51b5-c06c-4bff-993c-441c5ca65585)
+<!-- ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/e7b5b135-bb26-4036-a4ba-9afe3ffbd13f) -->
+![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/a168af4f-2ef6-496f-ba70-946d3e6e628a)
 
 
 <!--  ## 📜 Projects :
