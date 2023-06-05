@@ -32,6 +32,7 @@
 ![CSS](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
+![RESTful API](https://img.shields.io/badge/RESTful_API-0a0c10?style=for-the-badge&logo=restapi&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-0a0c10?style=for-the-badge&logo=postman&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-0a0c10?style=for-the-badge&logo=netlify&logoColor=white)
 
