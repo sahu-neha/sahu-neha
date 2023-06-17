@@ -13,16 +13,16 @@
 
 ## 🌐 Socials :
 
-<!-- ><a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahu-neha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nehasahu2227" height="30" width="40" /></a> -->
+<!-- > <a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a0c10?style=for-the-badge&logo=linkedin&logoColor=white" alt="sahu-neha"/></a>
+<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-0a0c10?style=for-the-badge&logo=hackerrank&logoColor=white" alt="nehasahu2227"/></a> -->
 
-> <a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a0c10?style=for-the-badge&logo=linkedin&logoColor=white" alt="sahu-neha"/></a>
-<a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-0a0c10?style=for-the-badge&logo=hackerrank&logoColor=white" alt="nehasahu2227"/></a>
+> <a href="https://www.linkedin.com/in/sahu-neha/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
+  <a title="nehasahu2227@gmail.com" href="mailto:neelgiri65@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
 
+<!-- 💻  -->
+## 🛠️ Languages & Tools :
 
-## 💻 Tech-Stack & Tools :
-
->![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
+<!-- >![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-0a0c10?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/jdbc-0a0c10?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-0a0c10?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +34,25 @@
 ![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
 ![RESTful API](https://img.shields.io/badge/RESTful_API-0a0c10?style=for-the-badge&logo=restapi&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-0a0c10?style=for-the-badge&logo=postman&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-0a0c10?style=for-the-badge&logo=netlify&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-0a0c10?style=for-the-badge&logo=netlify&logoColor=white) -->
+
+> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-64b743?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-teal.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+> ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-679200?style=for-the-badge&logo=Swagger&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-blue.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-gray.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=Github&logoColor=white)
+![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+
 
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <br>
@@ -42,6 +60,7 @@
 <!-- ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/2a0d8608-c278-437c-b69f-d4002fcff218) -->
 <!-- ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/e7b5b135-bb26-4036-a4ba-9afe3ffbd13f) -->
 ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/0ed9f401-4a73-4631-a362-c24a797c74cc)
+
 
 <!--  ## 📜 Projects :
 
