@@ -16,8 +16,8 @@
 <!-- > <a href="http://www.linkedin.com/in/sahu-neha" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0a0c10?style=for-the-badge&logo=linkedin&logoColor=white" alt="sahu-neha"/></a>
 <a href="https://www.hackerrank.com/nehasahu2227" target="blank"><img align="center" src="https://img.shields.io/badge/hackerrank-0a0c10?style=for-the-badge&logo=hackerrank&logoColor=white" alt="nehasahu2227"/></a> -->
 
-> <a href="https://www.linkedin.com/in/sahu-neha/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
-  <a title="nehasahu2227@gmail.com" href="mailto:neelgiri65@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+> <a href="https://www.linkedin.com/in/sahu-neha/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40px" /></a> &nbsp;
+  <a title="nehasahu2227@gmail.com" href="mailto:nehasahu2227@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a> &emsp;
 
 <!-- 💻  -->
 ## 🛠️ Languages & Tools :
