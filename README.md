@@ -55,13 +55,14 @@
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
 
-
+<!--
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <br>
+-->
 
-<!-- ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/2a0d8608-c278-437c-b69f-d4002fcff218) -->
-<!-- ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/e7b5b135-bb26-4036-a4ba-9afe3ffbd13f) -->
+<!-- 
 ![image](https://github.com/sahu-neha/sahu-neha/assets/109987397/0ed9f401-4a73-4631-a362-c24a797c74cc)
+-->
 
 
 <!--  ## 📜 Projects :
