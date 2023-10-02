@@ -9,10 +9,7 @@
 
 - 📫 How to reach me : **nehasahu2227@gmail.com**
 
-<!-- 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://sahu-neha.github.io/)**
--->
-
 
 ## 🌐 Socials :
 
@@ -24,20 +21,6 @@
 
 <!-- 💻  -->
 ## 🛠️ Languages & Tools :
-
-<!-- >![Java](https://img.shields.io/badge/java-0a0c10?style=for-the-badge&logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-0a0c10?style=for-the-badge&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/jdbc-0a0c10?style=for-the-badge&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-0a0c10?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-0a0c10?style=for-the-badge&logo=java&logoColor=white)
-![SprongBoot](https://img.shields.io/badge/springboot-0a0c10?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-0a0c10.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css3-0a0c10.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-0a0c10.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-0a0c10?style=for-the-badge&logo=git&logoColor=white) 
-![RESTful API](https://img.shields.io/badge/RESTful_API-0a0c10?style=for-the-badge&logo=restapi&logoColor=white) 
-![Postman](https://img.shields.io/badge/postman-0a0c10?style=for-the-badge&logo=postman&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-0a0c10?style=for-the-badge&logo=netlify&logoColor=white) -->
 
 > ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
