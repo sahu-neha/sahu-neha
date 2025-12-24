@@ -9,14 +9,24 @@
 
 ## 👩‍💻 About Me
 
+<p align="right">
+  <a href="https://www.linkedin.com/in/sahu-neha/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42px"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nehasahu2227@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="42px"/>
+  </a>
+</p>
+
 💼 **Power Platform & Azure Developer @ Microsoft Partner Company**  
-🌍 **India** | 🔄 **Transitioning into React Frontend / Full-Stack roles**
+🌍 **India**
 
-I have **hands-on experience designing and delivering enterprise-grade solutions** using the **Microsoft ecosystem, Azure cloud services, and external integrations**.
+I design and deliver **enterprise-grade solutions** across the **Microsoft ecosystem**, with strong experience in **Azure-based services, APIs, and system integrations**.
 
-A significant part of my work involves **payment gateways, webhooks, APIs, and system integrations**, where I have independently handled setup, logic, and production-ready implementations.
+A core part of my work involves building and integrating **payment gateways, webhook-driven workflows, and external platforms**, where I have owned implementation logic and production-ready setups end to end.
 
-Alongside this, I am **actively building React applications** to transition into **UI-focused and full-stack roles**, while leveraging my strong backend and integration background.
+I am currently expanding into **React-based frontend development** to complement my backend and integration expertise, with the goal of working in **full-stack and UI-focused roles**.
 
 > 🔒 **Note**  
 > Due to enterprise client policies, most production repositories are maintained in **Azure DevOps**.  
@@ -24,16 +34,52 @@ Alongside this, I am **actively building React applications** to transition into
 
 ---
 
-## ⚛️ Current Focus — React (Active)
+## ⚛️ Current Focus — React
 
-- Building **React applications from scratch**
-- Strong focus on:
-  - JavaScript fundamentals
-  - Component-based architecture
-  - Hooks & state management
+- Building **React applications** with a focus on real-world use cases
+- Working extensively with:
+  - Modern JavaScript (ES6+)
+  - Component-driven architecture
+  - Hooks and state management
   - REST API integration
-- Applying frontend concepts with a **backend-first mindset**
-- Targeting **Full-Stack roles**
+- Applying frontend development with a **backend-first and integration-aware mindset**
+- Preparing for **React Frontend / Full-Stack roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### Microsoft Power Platform & Dynamics
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Pages](https://img.shields.io/badge/Power%20Pages-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-0F6CBD?style=for-the-badge&logo=microsoftdataverse&logoColor=white)
+
+### Cloud, APIs & Identity
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Azure AD B2C](https://img.shields.io/badge/Azure%20AD%20B2C-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Payments & Integrations
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
+![DocuSign](https://img.shields.io/badge/DocuSign-FFCC00?style=for-the-badge&logo=docusign&logoColor=black)
+![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+### Web & Frontend (Current Focus)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Tools
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-DD4C35?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F15A24?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -65,7 +111,7 @@ Alongside this, I am **actively building React applications** to transition into
 
 ---
 
-### 🔹 Payments & External Integrations (Core Strength)
+### 🔹 Payments & External Integrations
 
 - End-to-end implementation of **payment and third-party integrations**
 - **Stripe**:
@@ -120,24 +166,6 @@ Alongside this, I am **actively building React applications** to transition into
 
 ---
 
-## 🛠️ Tech Stack
-
-### Microsoft & Cloud
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Power Pages](https://img.shields.io/badge/Power%20Pages-2B579A?style=for-the-badge&logo=microsoft&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-0F6CBD?style=for-the-badge&logo=microsoftdataverse&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### Web & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -151,8 +179,9 @@ Alongside this, I am **actively building React applications** to transition into
 </p>
 
 <p align="center">
-📫 <b>Email:</b> nehasahu2227@gmail.com &nbsp; | &nbsp;
-🌐 <b>Portfolio:</b> https://sahu-neha.github.io/
+📫 <b>Email:</b> nehasahu2227@gmail.com 
+  <!-- &nbsp; | &nbsp; -->
+<!-- 🌐 <b>Portfolio:</b> https://sahu-neha.github.io/ -->
 </p>
 
 ---
