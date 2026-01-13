@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Neha+Sahu;Power+Platform+and+Azure+Developer;Currently+Focused+on+ReactJS+&font=Fira%20Code&center=true&width=850&height=50&weight=700&size=24&duration=2000&pause=2000" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Neha+Sahu;Power+Platform+and+Azure+Developer;Currently+Focused+on+React.js+and+Java+&font=Fira%20Code&center=true&width=850&height=50&weight=700&size=24&duration=2000&pause=2000" 
     alt="Typing SVG"
   />
 </p>
@@ -26,7 +26,8 @@ I design and deliver **enterprise-grade solutions** across the **Microsoft ecosy
 
 A core part of my work involves building and integrating **payment gateways, webhook-driven workflows, and external platforms**, where I have owned implementation logic and production-ready setups end to end.
 
-I am currently expanding into **React-based frontend development** to complement my backend and integration expertise, with the goal of working in **full-stack and UI-focused roles**.
+Alongside this, I am actively working on **full-stack development using React and Java (Spring Boot)**, building scalable frontends backed by **REST APIs and MySQL databases**.  
+My goal is to transition into **full-stack and UI-focused roles** while leveraging my strong backend and integration background.
 
 > 🔒 **Note**  
 > Due to enterprise client policies, most production repositories are maintained in **Azure DevOps**.  
@@ -34,16 +35,17 @@ I am currently expanding into **React-based frontend development** to complement
 
 ---
 
-## ⚛️ Current Focus — React
+## ⚛️ Current Focus — React & Java Full-Stack Development
 
-- Building **React applications** with a focus on real-world use cases
+- Building **full-stack applications using React and Java (Spring Boot)** with real-world use cases
 - Working extensively with:
   - Modern JavaScript (ES6+)
   - Component-driven architecture
-  - Hooks and state management
-  - REST API integration
-- Applying frontend development with a **backend-first and integration-aware mindset**
-- Preparing for **React Frontend / Full-Stack roles**
+  - React Hooks, state, and lifecycle management
+  - Java, Spring Boot, and RESTful API design
+  - MySQL database modeling and integration
+- Designing applications with a **backend-first, integration-aware approach**
+- Strengthening skills for **React Frontend & Java Full-Stack roles**
 
 ---
 
@@ -75,7 +77,11 @@ I am currently expanding into **React-based frontend development** to complement
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Tools
+## Backend, Databases & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=api&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-DD4C35?style=for-the-badge&logo=git&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
